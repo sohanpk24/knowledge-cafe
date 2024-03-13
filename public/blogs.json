@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of Fiction",
+      "author": "John Doe",
+      "author-img": "https://i.ibb.co/c2Xy4RQ/ian-dooley-Du-BNA1-QMp-PA-unsplash.jpg",
+      "posted-date": "2024-03-14",
+      "reading-time": "10 minutes",
+      "hashtags": ["fiction", "writing", "literature"]
+    },
+    {
+      "id": 2,
+      "title": "Cooking Without Limits",
+      "author": "Jane Smith",
+      "author-img": "https://i.ibb.co/cT54n5N/tony-lee-i-XLLP08-BOc-unsplash.jpg",
+      "posted-date": "2024-03-12",
+      "reading-time": "15 minutes",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "title": "Exploring the Universe",
+      "author": "Alex Johnson",
+      "author-img": "https://i.ibb.co/k8jHz6W/dan-freeman-w-An4-Rfm-Xtx-U-unsplash.jpg",
+      "posted-date": "2024-03-10",
+      "reading-time": "20 minutes",
+      "hashtags": ["space", "astronomy", "science"]
+    },
+    {
+      "id": 4,
+      "title": "Fitness Journey",
+      "author": "Emily Brown",
+      "author-img": "https://i.ibb.co/K0Kzkp5/wil-stewart-K-Tb-ABn-Vz-Ho-unsplash.jpg",
+      "posted-date": "2024-03-08",
+      "reading-time": "12 minutes",
+      "hashtags": ["fitness", "health", "exercise"]
+    },
+    {
+      "id": 5,
+      "title": "Photography Tips",
+      "author": "Michael Lee",
+      "author-img": "https://i.ibb.co/w7T0gXN/arpan-banerjee-PUNw-Ba-St5g-unsplash.jpg",
+      "posted-date": "2024-03-06",
+      "reading-time": "18 minutes",
+      "hashtags": ["photography", "tips", "camera"]
+    }
+  ]
+  
